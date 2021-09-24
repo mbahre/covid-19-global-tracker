@@ -1,0 +1,17 @@
+section {
+  width: 100%;
+  text-align: center;
+  margin: 20px 0;
+}
+
+h2 {
+  text-align: center;
+}
+
+button {
+  padding: 10px;
+}
+
+button:hover {
+  cursor: pointer;
+}
